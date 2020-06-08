@@ -1,0 +1,93 @@
+@charset "utf-8"; body { margin: 3px; 
+font-family: arial; } th.ssSearchResultHeader 
+{ border-top: 1px solid black; overflow: 
+hidden; border-bottom: 1px solid black; 
+text-align: left; } th.ssSearchResultHeaderTop 
+{ border-top: 1px solid black; overflow: 
+hidden; text-align: left; } 
+th.ssSearchResultHeaderBottom { border-bottom: 
+1px solid black; overflow: hidden; text-align: 
+left; } th { overflow: hidden; } 
+th.ssTableHeader { text-align: left; } 
+th.ssTableHeaderLabel { text-align: right; 
+font-weight: lighter; } 
+th.ssTableHeaderLabelLeft { text-align: left; 
+font-weight: lighter; } td { overflow: hidden;
+}
+a.ssLaunchHyperlink { font-weight: bold; 
+font-size: 8pt; color: rgb(223, 223, 223); } 
+div.ssBlackNavBarText { font-weight: bold; 
+font-size: 8pt; color: rgb(223, 223, 223); } 
+a.ssBlackNavBarHyperlink { font-size: 8pt; 
+color: rgb(255, 255, 255); } 
+a.ssSearchHyperlink { font-weight: bold; 
+font-size: 10pt; cursor: pointer; color: 
+cornflowerblue; text-decoration: underline; } 
+p.ssCopyright { padding: 15px 0px; font-size: 
+6pt; color: rgb(223, 223, 223); } 
+span.ssHyperLinkSpacer { padding: 0px 15px; 
+font-size: 8pt; color: rgb(223, 223, 223); } 
+table { font-size: 8pt; } 
+div.ssCaseDetailSectionTitle { border-top: 1px 
+solid black; margin-top: 20px; font-weight: 
+bold; font-size: 8pt; margin-bottom: 10px; 
+border-bottom: 1px solid black; font-family: 
+Times; text-align: center; font-variant: 
+small-caps; white-space: normal; width: 100%;
+}
+div.ssTextFooter { border-top: 1px solid 
+black; margin-top: 20px; font-weight: bold; 
+font-size: 8pt; margin-bottom: 10px; width: 
+100%; text-align: center; } 
+div.ssCaseDetailROA { font-weight: bold; 
+font-size: 14pt; width: 100%; font-family: 
+Times; text-align: center; font-variant: 
+small-caps; } div.ssCaseDetailCaseNbr { 
+font-weight: bold; font-size: 10pt; 
+padding-bottom: 20px; width: 100%; 
+font-family: Times; text-align: center; 
+font-variant: small-caps; } 
+th.ssEventsAndOrdersSubTitle { font-weight: 
+bold; font-size: 8pt; padding-bottom: 3px; 
+font-family: Times; text-align: left; } 
+label.ssLogin { font-size: 8pt; color: 
+rgb(102, 153, 204); } p.ssLoginError { 
+font-size: 8pt; color: red; } 
+div.ssErrorOccured { font-size: 8pt; color: 
+red; } p.LoginMessage { font-weight: bolder; 
+font-size: 9pt; color: rgb(102, 153, 204); } 
+td.ssLabel { padding-right: 8px; color: 
+rgb(255, 255, 255); text-align: right; 
+font-size: 12px; } .ssRequiredLabel { color: 
+red; text-align: center; font-size: 12px; 
+float: none; font-weight: bold; } 
+.ssRequiredText { text-align: center; 
+font-size: 12px; float: none; } 
+span.ssJailingDetail { border-width: 1px; 
+border-style: solid; border-color: black; 
+margin-bottom: 10px; margin-left: 10px; 
+margin-right: 10px; width: 100%; } 
+div.ssJailingDetailTitle { margin: 10px; 
+width: 100%; padding-left: 5px; padding-right: 
+5px; } div.ssIncidentDetailTitle { margin: 
+10px; width: 100%; padding-left: 5px; 
+padding-right: 5px; font-size: 20px; } 
+td.ssIncidentDetailTitle { font-size: 20px; } 
+div.ssLaunchProductTitle { background-color: 
+rgb(238, 238, 238); font-size: 16px; color: 
+olive; padding-left: 8px; margin-bottom: 5px;
+}
+.ssInactiveText { color: gray; font-style: 
+italic; } td.ssMessageText { font-size: 8pt; 
+font-weight: bold; color: cornflowerblue; 
+text-align: center; } td.ssSiteFooterRule { 
+border-bottom: 1px solid rgb(223, 223, 223); } 
+.ssSiteFooter { height: 30px; vertical-align: 
+bottom; } td.ssHeaderTitleBanner { 
+background-color: rgb(102, 153, 204); 
+text-align: center; height: 65px; font-size: 
+large; font-weight: bold; } 
+td.ssBlackNavBarLocation { padding-right: 
+10px; color: rgb(255, 255, 255); white-space: 
+nowrap; font-family: arial; font-size: 8pt; }
+.ButtonSection { width: 90%; margin-right: 15%; text-align: right; }
